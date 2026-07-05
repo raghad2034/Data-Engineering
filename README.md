@@ -1,4 +1,4 @@
-## Database Schema (ERD) 📊
+## Database Schema (ERD) 
 This diagram shows the Star Schema used in the project, where the `Registration` table acts as the central Fact table.
 
 ```mermaid
